@@ -38,4 +38,4 @@
 
 ## 📧 Contact
 
-Email: idhamz
+Email: idhamzuhri04@gmail.com
