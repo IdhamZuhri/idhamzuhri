@@ -8,7 +8,7 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idham-zuhri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idhamzuhri04@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idhamzuhri04@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Idham,%0A%0AI%20visited%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.)
 
 ---
 
