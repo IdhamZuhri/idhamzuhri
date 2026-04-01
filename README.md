@@ -23,21 +23,19 @@
 ## 🚀 Projects
 
 ### 📱 Applications
-- **UniEquip Mobile** – Android-based real-time equipment booking system with Firebase integration, role-based access (student/admin), and live availability tracking  
-- **UniEquip Web** – Web-based system design focusing on database modeling, UML diagrams (use case, class), and scalable architecture planning  
-
+- **UniEquip Mobile** 
+- **UniEquip Web**
 ### 🤖 AI Systems
-- **VeriHealth** – AI-powered system to detect and verify misleading health claims in short-form social media videos using content analysis  
-- **CikguBot** – AI learning assistant with quiz generation and gamification (points, rewards) to improve engagement in primary science education  
-- **GenZ Finance Bot** – AI budget assistant that analyzes income and expenses to provide personalized financial insights through a conversational interface  
+- **VeriHealth**
+- **CikguBot**
+- **GenZ Finance Bot** 
 
 ### ⚙️ Hardware & IoT
-- **Blinky (Smart Plant & Study Companion)** – ESP32-based IoT system that monitors temperature, humidity, and soil moisture, with a built-in Pomodoro focus timer and touch interaction  
-- **Safety Box** – Smart security box using sensors for detection and automated alert mechanisms  
+- **Blinky (Smart Plant & Study Companion)**
+- **Safety Box** 
 
 ### 🌐 Networking
-- **Campus Network Infrastructure Simulation** – Designed and simulated enterprise campus network using Cisco Packet Tracer with VLAN segmentation, OSPF routing, HSRP redundancy, and IPv6 configuration
-
+- **Campus Network Infrastructure Simulation**
 ---
 
 ## 📚 Current Focus
