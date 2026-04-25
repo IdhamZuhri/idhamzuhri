@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Idham
 
-💻 Computer Science Student  
-🎓 Building AI-powered, real-time, and data-driven systems across mobile, web, and IoT  
-🚀 Focused on practical, real-world applications  
+> Computer Science Student  
+> Building AI-powered, real-time, and data-driven systems across mobile, web, and IoT  
+> Focused on practical, real-world applications  
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/idham-zuhri" target="_blank">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 📱 Applications
 - **UniEquip Mobile** – Equipment booking mobile application  
@@ -58,7 +58,7 @@
 
 ---
 
-## 📚 Current Focus
+##  Current Focus
 
 - Building AI-powered applications (chatbots, recommendation systems)  
 - Exploring Machine Learning fundamentals and model implementation  
@@ -67,6 +67,6 @@
 
 ---
 
-## ✨ Quote
+##  Quote
 
 > "Build systems that solve real problems."
