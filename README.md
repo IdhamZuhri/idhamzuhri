@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Idham
 
-> Computer Science Student  
-> Building AI-powered, real-time, and data-driven systems across mobile, web, and IoT  
-> Focused on practical, real-world applications  
+- Computer Science Student  
+- Building AI-powered, real-time, and data-driven systems across mobile, web, and IoT  
+- Focused on practical, real-world applications  
 
 ---
 
