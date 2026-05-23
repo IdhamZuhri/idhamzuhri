@@ -51,7 +51,11 @@
 
 ### ⚙️ Hardware & IoT
 - **Blinky** – Smart plant & study companion  
-- **Safety Box** – Smart secure storage system  
+- **Safety Box** – Smart secure storage system
+
+### 🏭 Data Engineering & Analytics
+
+- **Sales Data Pipeline & Analytics Dashboard** – End-to-end SQL Server data warehouse using Medallion Architecture (Bronze, Silver, Gold) with Power BI sales and profitability dashboard
 
 ### 🌐 Networking
 - **Campus Network Infrastructure Simulation**
